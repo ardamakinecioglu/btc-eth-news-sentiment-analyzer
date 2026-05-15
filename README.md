@@ -32,3 +32,18 @@ ETH Market Sentiment Today
 -----------------------------------
 Positive Score: 50.00%
 Overall Outlook: Neutral / Positive
+```
+
+## How to Run
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the project:
+
+```bash
+python main.py
+```
