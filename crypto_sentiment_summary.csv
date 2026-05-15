@@ -1,7 +1,0 @@
-Coin,Sentiment,Count,Percentage
-BTC,Negative,1,10.0
-BTC,Neutral,8,80.0
-BTC,Positive,1,10.0
-ETH,Negative,2,20.0
-ETH,Neutral,7,70.0
-ETH,Positive,1,10.0
