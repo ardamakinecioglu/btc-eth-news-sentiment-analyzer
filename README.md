@@ -1,6 +1,6 @@
 # BTC & ETH News Sentiment Analyzer
 
-This is a beginner-friendly Python project that analyzes Bitcoin and Ethereum news headlines using a simple rule-based sentiment approach.
+This is a Python project that analyzes Bitcoin and Ethereum news headlines using a simple rule-based sentiment approach.
 
 The project collects recent crypto news headlines from RSS feeds, classifies each headline as Positive, Negative, or Neutral, and creates CSV reports for further analysis.
 
